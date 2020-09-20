@@ -1,0 +1,43 @@
+img.nav_icon {
+    width: 50px;
+    height: 50px;
+}
+
+.bg-light {
+    background-color: lightblue !important;
+}
+
+.nav-link {
+    font-family: 'Lucida Console';
+}
+
+img {
+    padding-top: 10px;
+    width: 100%;
+}
+
+.stars {
+    max-height: 10%;
+    max-width: 30% !important;
+}
+
+.centered {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 10px;
+}
+
+p {
+    padding-top: 10px;
+}
+
+.page-footer {
+	margin-top: 10px;
+	background-color: lightblue;
+	width: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+}
